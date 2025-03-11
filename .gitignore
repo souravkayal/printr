@@ -1,0 +1,62 @@
+# Ignore Visual Studio temporary files, build results, and other unnecessary files
+
+# Build Folders
+bin/
+obj/
+out/
+
+# User-Specific Files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+.vs/
+
+# Logs
+logs/
+*.log
+*.tlog
+*.wrn
+*.err
+*.ncb
+
+# Dependency Cache
+packages/
+!packages/repositories.config
+
+# NuGet
+*.nupkg
+project.lock.json
+project.assets.json
+*.snupkg
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Resharper
+*.DotSettings.user
+_ReSharper*/
+
+# DotNet Test Results
+TestResults/
+.coverage
+*.coveragexml
+*.coveragejson
+
+# Docker
+**/[Dd]ockerfile
+**/[Dd]ocker-compose*
+
+# Secrets
+secrets.json
+
+# macOS & Linux system files
+.DS_Store
+*.swp
+._*
+
+# Windows specific system files
+Thumbs.db
+ehthumbs.db
