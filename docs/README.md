@@ -43,5 +43,8 @@ Print(matrix);
 Print(matrix);`
 
 ##### Here it your output
-![image](https://github.com/user-attachments/assets/637caacf-6bf9-4c56-b494-36dc3d8155cb)
+
+![printr](https://github.com/user-attachments/assets/1dd3830a-aefc-4f12-9b5b-19744f4c7011)
+
+
 
