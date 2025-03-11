@@ -1,1 +1,4 @@
-This is simple nuget package to simplify Print() statement in C# .NET
+Console.Write() is not unified and generic for all data type. It needs custom code to print various types of object like List<string> , Complex Object , Dicttinary etc. 
+
+Printr simplifies it ! 
+
