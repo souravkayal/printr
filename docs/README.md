@@ -38,9 +38,9 @@ int[,] matrix =
     { 7, 8, 9 }
 };
 
-Print(matrix);```
+Print(matrix);
 
-
+```
 ##### Here it your output
 
 ![printr](https://github.com/user-attachments/assets/1dd3830a-aefc-4f12-9b5b-19744f4c7011)
