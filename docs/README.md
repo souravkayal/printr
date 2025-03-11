@@ -1,0 +1,1 @@
+This is simple nuget package to simplify Print() statement in C# .NET

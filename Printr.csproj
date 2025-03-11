@@ -4,10 +4,19 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<PackageId>Printr</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Sourav Kayal</Authors>
+	<Company>Sourav Kayal</Company>
+	<Description>A package to make print east in C# .NET</Description>
+	<PackageTags>Print, Console, Utility, Easy Printing</PackageTags>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	<None Include="docs\README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
 </Project>
