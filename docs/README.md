@@ -5,13 +5,13 @@ Console.Write() is not unified and generic for all data type. It needs custom co
 
 Printr simplifies it ! 
 
-#####Step 1 : Include the nuget pachage from here - https://www.nuget.org/packages/Printr/
+##### Step 1 : Include the nuget pachage from here - https://www.nuget.org/packages/Printr/
 
-#####Step 2: Add namespace in your .cs file 
+##### Step 2: Add namespace in your .cs file 
 
 `using static Printmaster.Printr;`
 
-#####Step 3 : Start printing anything. 
+##### Step 3 : Start printing anything. 
 
 using System;
 using static Printmaster.Printr;
