@@ -13,8 +13,7 @@ Step 2: Add namespace in your .cs file
 
 Step 3 : Start printing anything. 
 
-`
-//Print numbers
+`//Print numbers
 Print(1,2,3);
 
 //Print mixed data type
@@ -35,5 +34,4 @@ int[,] matrix =
     { 7, 8, 9 }
 };
 
-Print(matrix); 
-`
+Print(matrix);`
