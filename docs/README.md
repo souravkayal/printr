@@ -10,3 +10,30 @@ Step 1 : Include the nuget pachage from here - https://www.nuget.org/packages/Pr
 Step 2: Add namespace in your .cs file 
 
 `using static Printmaster.Printr;`
+
+Step 3 : Start printing anything. 
+
+`
+//Print numbers
+Print(1,2,3);
+
+//Print mixed data type
+Print(1,true, false);
+
+//Print List
+Print(new List<string> { "Item1" , "Item2" });
+
+//Print Object
+var person = new { Name = "John", Age = 30 };
+Print(person);
+
+//Print 2D Array / Matrix
+int[,] matrix =
+{
+    { 1, 2, 3 },
+    { 4, 5, 6 },
+    { 7, 8, 9 }
+};
+
+Print(matrix); 
+`
