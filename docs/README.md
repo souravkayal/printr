@@ -38,9 +38,8 @@ int[,] matrix =
     { 7, 8, 9 }
 };
 
-Print(matrix);
+Print(matrix);```
 
-Print(matrix);`
 
 ##### Here it your output
 
