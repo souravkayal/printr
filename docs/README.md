@@ -41,3 +41,7 @@ int[,] matrix =
 Print(matrix);
 
 Print(matrix);`
+
+##### Here it your output
+![image](https://github.com/user-attachments/assets/637caacf-6bf9-4c56-b494-36dc3d8155cb)
+
